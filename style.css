@@ -1,0 +1,24 @@
+.header__title {
+  background: #4682B4;
+  height: 100px;
+  padding-top: 0px;
+  text-align: center;
+}
+
+h1 {
+  margin: 0;
+}
+body {
+  margin: 0;
+}
+
+}
+.black, .blue {
+  background: #A9A9A9;
+  height: 110px;
+  padding-top: 10px;
+  text-align: center;
+  margin: 0;
+  widht: 1px;
+
+} 
